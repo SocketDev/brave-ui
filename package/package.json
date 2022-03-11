@@ -50,7 +50,7 @@
     "@ctrl/tinycolor": "^2.2.1",
     "emptykit.css": "^1.0.1",
     "styled-components": "^3.2.5",
-    "bowserify": "^10.2.1"
+    "browserify": "^17.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.1.6",
