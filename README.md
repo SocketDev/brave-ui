@@ -9,6 +9,8 @@
 <a href="https://standardjs.com" alt="JavaScript Style Guide"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" /></a>
 </p>
 
+Beep
+
 ---
 
 # :wave: Welcome to Brave UI 
